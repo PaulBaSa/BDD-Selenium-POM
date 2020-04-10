@@ -1,0 +1,9 @@
+requests
+# To install all the required run the below command on the terminal
+# pip install -r requirements.txt
+selenium
+pytest
+dateparser
+pytest-bdd
+# behave
+# pytest-selenium
